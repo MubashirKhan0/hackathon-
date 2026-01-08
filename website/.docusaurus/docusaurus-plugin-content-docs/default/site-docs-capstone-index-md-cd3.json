@@ -1,0 +1,24 @@
+{
+  "id": "capstone/index",
+  "title": "Capstone - Practical Physical AI Applications",
+  "description": "Synthesizing all modules to explore practical applications of Physical AI",
+  "source": "@site/docs/capstone/index.md",
+  "sourceDirName": "capstone",
+  "slug": "/capstone/",
+  "permalink": "/hackathon-/docs/capstone/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MubashirKhan0/hackathon-/edit/master/website/docs/capstone/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Capstone - Practical Physical AI Applications",
+    "description": "Synthesizing all modules to explore practical applications of Physical AI",
+    "sidebar_label": "Capstone: Practical Physical AI Applications"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 3: Integration & Coordination",
+    "permalink": "/hackathon-/docs/module-4/chapter-3"
+  }
+}

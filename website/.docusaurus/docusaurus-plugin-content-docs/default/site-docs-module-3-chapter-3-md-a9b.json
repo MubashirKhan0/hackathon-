@@ -1,0 +1,28 @@
+{
+  "id": "module-3/chapter-3",
+  "title": "The AI Robot Brain (Isaac Ecosystem)",
+  "description": "Understanding NVIDIA's Isaac ecosystem for robotics AI and intelligent systems",
+  "source": "@site/docs/module-3/chapter-3.md",
+  "sourceDirName": "module-3",
+  "slug": "/module-3/chapter-3",
+  "permalink": "/hackathon-/docs/module-3/chapter-3",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MubashirKhan0/hackathon-/edit/master/website/docs/module-3/chapter-3.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "The AI Robot Brain (Isaac Ecosystem)",
+    "description": "Understanding NVIDIA's Isaac ecosystem for robotics AI and intelligent systems",
+    "sidebar_label": "Chapter 3: The AI Robot Brain (Isaac Ecosystem)"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 2: Sensors & Perception Systems",
+    "permalink": "/hackathon-/docs/module-3/chapter-2"
+  },
+  "next": {
+    "title": "Module 4: Intelligence in Action — VLA & Autonomous Systems",
+    "permalink": "/hackathon-/docs/module-4/"
+  }
+}

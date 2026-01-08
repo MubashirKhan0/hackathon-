@@ -1,0 +1,28 @@
+{
+  "id": "module-1/chapter-2",
+  "title": "Embodied Intelligence & Physical Reasoning",
+  "description": "Understanding how physical form influences intelligence and reasoning capabilities",
+  "source": "@site/docs/module-1/chapter-2.md",
+  "sourceDirName": "module-1",
+  "slug": "/module-1/chapter-2",
+  "permalink": "/hackathon-/docs/module-1/chapter-2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MubashirKhan0/hackathon-/edit/master/website/docs/module-1/chapter-2.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Embodied Intelligence & Physical Reasoning",
+    "description": "Understanding how physical form influences intelligence and reasoning capabilities",
+    "sidebar_label": "Chapter 2: Embodied Intelligence & Physical Reasoning"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 1: From Digital AI to Physical AI",
+    "permalink": "/hackathon-/docs/module-1/chapter-1"
+  },
+  "next": {
+    "title": "Chapter 3: Why Humanoids Matter",
+    "permalink": "/hackathon-/docs/module-1/chapter-3"
+  }
+}

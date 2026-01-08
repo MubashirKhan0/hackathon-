@@ -1,0 +1,28 @@
+{
+  "id": "module-4/index",
+  "title": "Module 4: Intelligence in Action — VLA & Autonomous Systems",
+  "description": "This module explores practical implementations where all previous learning comes together in real systems. You'll learn about Variable Level of Autonomy and autonomous robotics applications.",
+  "source": "@site/docs/module-4/index.md",
+  "sourceDirName": "module-4",
+  "slug": "/module-4/",
+  "permalink": "/hackathon-/docs/module-4/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MubashirKhan0/hackathon-/edit/master/website/docs/module-4/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "Module 4: Intelligence in Action — VLA & Autonomous Systems",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 3: The AI Robot Brain (Isaac Ecosystem)",
+    "permalink": "/hackathon-/docs/module-3/chapter-3"
+  },
+  "next": {
+    "title": "Chapter 1: Variable Level of Autonomy (VLA) Systems",
+    "permalink": "/hackathon-/docs/module-4/chapter-1"
+  }
+}

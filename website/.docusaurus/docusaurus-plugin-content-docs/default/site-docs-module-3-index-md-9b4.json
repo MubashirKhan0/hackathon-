@@ -1,0 +1,28 @@
+{
+  "id": "module-3/index",
+  "title": "Module 3: Simulation, Perception & the AI Robot Brain",
+  "description": "This module explains how robots perceive, learn, and reason safely using simulation and AI platforms. You'll explore how robots understand their environment and make intelligent decisions.",
+  "source": "@site/docs/module-3/index.md",
+  "sourceDirName": "module-3",
+  "slug": "/module-3/",
+  "permalink": "/hackathon-/docs/module-3/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MubashirKhan0/hackathon-/edit/master/website/docs/module-3/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "Module 3: Simulation, Perception & the AI Robot Brain",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 3: Digital Robot Bodies (URDF & SDF)",
+    "permalink": "/hackathon-/docs/module-2/chapter-3"
+  },
+  "next": {
+    "title": "Chapter 1: Simulation & Digital Twins",
+    "permalink": "/hackathon-/docs/module-3/chapter-1"
+  }
+}

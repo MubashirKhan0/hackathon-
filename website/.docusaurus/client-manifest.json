@@ -1,0 +1,393 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "237": [
+      237
+    ],
+    "17896441": [
+      869,
+      401
+    ],
+    "51279860": [
+      513
+    ],
+    "main": [
+      354,
+      869,
+      792
+    ],
+    "runtime~main": [
+      792,
+      869,
+      354
+    ],
+    "0e384e19": [
+      976
+    ],
+    "1d78d647": [
+      532
+    ],
+    "1f5583b4": [
+      305
+    ],
+    "2035e0b3": [
+      135
+    ],
+    "37a889cd": [
+      210
+    ],
+    "5ad232c4": [
+      853
+    ],
+    "5e95c892": [
+      647
+    ],
+    "7a8b142b": [
+      658
+    ],
+    "8c36df35": [
+      5
+    ],
+    "9b44c66f": [
+      213
+    ],
+    "a7456010": [
+      235
+    ],
+    "a7bd4aaa": [
+      98
+    ],
+    "a94703ab": [
+      869,
+      48
+    ],
+    "a9b067fb": [
+      454
+    ],
+    "aa009d14": [
+      629
+    ],
+    "aba21aa0": [
+      742
+    ],
+    "b0cc16e1": [
+      360
+    ],
+    "bc12798f": [
+      789
+    ],
+    "c2d1f621": [
+      70
+    ],
+    "c4f5d8e4": [
+      869,
+      634
+    ],
+    "c7dc8a23": [
+      266
+    ],
+    "c7dfbc38": [
+      267
+    ],
+    "cd369fc1": [
+      852
+    ],
+    "e235c1a9": [
+      752
+    ],
+    "ec89f1c2": [
+      810
+    ],
+    "styles": [
+      48,
+      354,
+      401,
+      634,
+      792,
+      869
+    ]
+  },
+  "assets": {
+    "5": {
+      "js": [
+        {
+          "file": "assets/js/8c36df35.a7b859fc.js",
+          "hash": "88b03e0ab11a6fdb",
+          "publicPath": "/hackathon-/assets/js/8c36df35.a7b859fc.js"
+        }
+      ]
+    },
+    "48": {
+      "js": [
+        {
+          "file": "assets/js/a94703ab.fd76ffb1.js",
+          "hash": "82354c6903cc3262",
+          "publicPath": "/hackathon-/assets/js/a94703ab.fd76ffb1.js"
+        }
+      ]
+    },
+    "70": {
+      "js": [
+        {
+          "file": "assets/js/c2d1f621.b7cc3ec3.js",
+          "hash": "d1bf6101cd107ab4",
+          "publicPath": "/hackathon-/assets/js/c2d1f621.b7cc3ec3.js"
+        }
+      ]
+    },
+    "98": {
+      "js": [
+        {
+          "file": "assets/js/a7bd4aaa.32cf2b7a.js",
+          "hash": "85125c5c4ca59967",
+          "publicPath": "/hackathon-/assets/js/a7bd4aaa.32cf2b7a.js"
+        }
+      ]
+    },
+    "135": {
+      "js": [
+        {
+          "file": "assets/js/2035e0b3.7a71ba55.js",
+          "hash": "223cb3339708d53f",
+          "publicPath": "/hackathon-/assets/js/2035e0b3.7a71ba55.js"
+        }
+      ]
+    },
+    "210": {
+      "js": [
+        {
+          "file": "assets/js/37a889cd.8ef99b49.js",
+          "hash": "d7d1b6653be28944",
+          "publicPath": "/hackathon-/assets/js/37a889cd.8ef99b49.js"
+        }
+      ]
+    },
+    "213": {
+      "js": [
+        {
+          "file": "assets/js/9b44c66f.e7f77aab.js",
+          "hash": "ec83191a316a2a7b",
+          "publicPath": "/hackathon-/assets/js/9b44c66f.e7f77aab.js"
+        }
+      ]
+    },
+    "235": {
+      "js": [
+        {
+          "file": "assets/js/a7456010.36099bd8.js",
+          "hash": "0818ce401fd82a34",
+          "publicPath": "/hackathon-/assets/js/a7456010.36099bd8.js"
+        }
+      ]
+    },
+    "237": {
+      "js": [
+        {
+          "file": "assets/js/237.65412e97.js",
+          "hash": "fb7d29959d39c46d",
+          "publicPath": "/hackathon-/assets/js/237.65412e97.js"
+        }
+      ]
+    },
+    "266": {
+      "js": [
+        {
+          "file": "assets/js/c7dc8a23.8aa59927.js",
+          "hash": "da3ee062c5f24917",
+          "publicPath": "/hackathon-/assets/js/c7dc8a23.8aa59927.js"
+        }
+      ]
+    },
+    "267": {
+      "js": [
+        {
+          "file": "assets/js/c7dfbc38.b94a64d0.js",
+          "hash": "4ab89fc40a022b28",
+          "publicPath": "/hackathon-/assets/js/c7dfbc38.b94a64d0.js"
+        }
+      ]
+    },
+    "305": {
+      "js": [
+        {
+          "file": "assets/js/1f5583b4.c503c24b.js",
+          "hash": "ed57851212f96ee7",
+          "publicPath": "/hackathon-/assets/js/1f5583b4.c503c24b.js"
+        }
+      ]
+    },
+    "354": {
+      "js": [
+        {
+          "file": "assets/js/runtime~main.bc5e5911.js",
+          "hash": "62dde6289315ba3b",
+          "publicPath": "/hackathon-/assets/js/runtime~main.bc5e5911.js"
+        }
+      ]
+    },
+    "360": {
+      "js": [
+        {
+          "file": "assets/js/b0cc16e1.0a15c8b4.js",
+          "hash": "c04c911ade8f6ac6",
+          "publicPath": "/hackathon-/assets/js/b0cc16e1.0a15c8b4.js"
+        }
+      ]
+    },
+    "401": {
+      "js": [
+        {
+          "file": "assets/js/17896441.2905e944.js",
+          "hash": "5e401c6942f28701",
+          "publicPath": "/hackathon-/assets/js/17896441.2905e944.js"
+        }
+      ]
+    },
+    "454": {
+      "js": [
+        {
+          "file": "assets/js/a9b067fb.e1afa5ed.js",
+          "hash": "6a1a58fdc3e2c1ef",
+          "publicPath": "/hackathon-/assets/js/a9b067fb.e1afa5ed.js"
+        }
+      ]
+    },
+    "513": {
+      "js": [
+        {
+          "file": "assets/js/51279860.7396ab7e.js",
+          "hash": "606bf45b06ed499e",
+          "publicPath": "/hackathon-/assets/js/51279860.7396ab7e.js"
+        }
+      ]
+    },
+    "532": {
+      "js": [
+        {
+          "file": "assets/js/1d78d647.1a2e75de.js",
+          "hash": "402e3bd5b8454922",
+          "publicPath": "/hackathon-/assets/js/1d78d647.1a2e75de.js"
+        }
+      ]
+    },
+    "629": {
+      "js": [
+        {
+          "file": "assets/js/aa009d14.1fdeefcd.js",
+          "hash": "cbea9721e2c8a5ea",
+          "publicPath": "/hackathon-/assets/js/aa009d14.1fdeefcd.js"
+        }
+      ]
+    },
+    "634": {
+      "js": [
+        {
+          "file": "assets/js/c4f5d8e4.7ceb98b0.js",
+          "hash": "26dc84ff7aafdbb1",
+          "publicPath": "/hackathon-/assets/js/c4f5d8e4.7ceb98b0.js"
+        }
+      ]
+    },
+    "647": {
+      "js": [
+        {
+          "file": "assets/js/5e95c892.338e6e24.js",
+          "hash": "c30c6889aeb0bf11",
+          "publicPath": "/hackathon-/assets/js/5e95c892.338e6e24.js"
+        }
+      ]
+    },
+    "658": {
+      "js": [
+        {
+          "file": "assets/js/7a8b142b.09a081f5.js",
+          "hash": "3b5f9de8f8ce1366",
+          "publicPath": "/hackathon-/assets/js/7a8b142b.09a081f5.js"
+        }
+      ]
+    },
+    "742": {
+      "js": [
+        {
+          "file": "assets/js/aba21aa0.c4a0227c.js",
+          "hash": "a3c4af4fd62228b2",
+          "publicPath": "/hackathon-/assets/js/aba21aa0.c4a0227c.js"
+        }
+      ]
+    },
+    "752": {
+      "js": [
+        {
+          "file": "assets/js/e235c1a9.d058feca.js",
+          "hash": "c2649517284cce08",
+          "publicPath": "/hackathon-/assets/js/e235c1a9.d058feca.js"
+        }
+      ]
+    },
+    "789": {
+      "js": [
+        {
+          "file": "assets/js/bc12798f.610afc13.js",
+          "hash": "5a42e68add0e3470",
+          "publicPath": "/hackathon-/assets/js/bc12798f.610afc13.js"
+        }
+      ]
+    },
+    "792": {
+      "js": [
+        {
+          "file": "assets/js/main.b8bf3cb5.js",
+          "hash": "2c04e3f421b446f3",
+          "publicPath": "/hackathon-/assets/js/main.b8bf3cb5.js"
+        }
+      ]
+    },
+    "810": {
+      "js": [
+        {
+          "file": "assets/js/ec89f1c2.c8679fa2.js",
+          "hash": "01e1ba7b6dbecf9e",
+          "publicPath": "/hackathon-/assets/js/ec89f1c2.c8679fa2.js"
+        }
+      ]
+    },
+    "852": {
+      "js": [
+        {
+          "file": "assets/js/cd369fc1.819653f4.js",
+          "hash": "5dd26c10b83a1b6b",
+          "publicPath": "/hackathon-/assets/js/cd369fc1.819653f4.js"
+        }
+      ]
+    },
+    "853": {
+      "js": [
+        {
+          "file": "assets/js/5ad232c4.e4e2b918.js",
+          "hash": "ffa5ce37ae193958",
+          "publicPath": "/hackathon-/assets/js/5ad232c4.e4e2b918.js"
+        }
+      ]
+    },
+    "869": {
+      "css": [
+        {
+          "file": "assets/css/styles.468bc87d.css",
+          "hash": "7d4245d2b148575e",
+          "publicPath": "/hackathon-/assets/css/styles.468bc87d.css"
+        }
+      ]
+    },
+    "976": {
+      "js": [
+        {
+          "file": "assets/js/0e384e19.23a0dff3.js",
+          "hash": "eb6d3feedbcfac60",
+          "publicPath": "/hackathon-/assets/js/0e384e19.23a0dff3.js"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "module-1/index",
+  "title": "Module 1: Foundations of Physical AI & Embodied Intelligence",
+  "description": "This module introduces the motivation, principles, and system-level thinking behind Physical AI. You'll explore the transition from digital AI to physical systems and understand why humanoid form factors matter in research and development.",
+  "source": "@site/docs/module-1/index.md",
+  "sourceDirName": "module-1",
+  "slug": "/module-1/",
+  "permalink": "/hackathon-/docs/module-1/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MubashirKhan0/hackathon-/edit/master/website/docs/module-1/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "Module 1: Foundations of Physical AI & Embodied Intelligence",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/hackathon-/docs/intro"
+  },
+  "next": {
+    "title": "Chapter 1: From Digital AI to Physical AI",
+    "permalink": "/hackathon-/docs/module-1/chapter-1"
+  }
+}

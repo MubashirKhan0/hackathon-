@@ -1,0 +1,28 @@
+{
+  "id": "module-1/chapter-1",
+  "title": "From Digital AI to Physical AI",
+  "description": "Understanding the transition from digital intelligence to embodied physical systems",
+  "source": "@site/docs/module-1/chapter-1.md",
+  "sourceDirName": "module-1",
+  "slug": "/module-1/chapter-1",
+  "permalink": "/hackathon-/docs/module-1/chapter-1",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MubashirKhan0/hackathon-/edit/master/website/docs/module-1/chapter-1.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "From Digital AI to Physical AI",
+    "description": "Understanding the transition from digital intelligence to embodied physical systems",
+    "sidebar_label": "Chapter 1: From Digital AI to Physical AI"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 1: Foundations of Physical AI & Embodied Intelligence",
+    "permalink": "/hackathon-/docs/module-1/"
+  },
+  "next": {
+    "title": "Chapter 2: Embodied Intelligence & Physical Reasoning",
+    "permalink": "/hackathon-/docs/module-1/chapter-2"
+  }
+}

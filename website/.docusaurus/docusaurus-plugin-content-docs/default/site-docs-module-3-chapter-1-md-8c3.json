@@ -1,0 +1,28 @@
+{
+  "id": "module-3/chapter-1",
+  "title": "Simulation & Digital Twins",
+  "description": "Understanding how simulation and digital twins support robot development and testing",
+  "source": "@site/docs/module-3/chapter-1.md",
+  "sourceDirName": "module-3",
+  "slug": "/module-3/chapter-1",
+  "permalink": "/hackathon-/docs/module-3/chapter-1",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MubashirKhan0/hackathon-/edit/master/website/docs/module-3/chapter-1.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Simulation & Digital Twins",
+    "description": "Understanding how simulation and digital twins support robot development and testing",
+    "sidebar_label": "Chapter 1: Simulation & Digital Twins"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 3: Simulation, Perception & the AI Robot Brain",
+    "permalink": "/hackathon-/docs/module-3/"
+  },
+  "next": {
+    "title": "Chapter 2: Sensors & Perception Systems",
+    "permalink": "/hackathon-/docs/module-3/chapter-2"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "accessibility",
+  "title": "Accessibility Statement",
+  "description": "We are committed to making this educational resource accessible to all learners, including those with disabilities.",
+  "source": "@site/docs/accessibility.md",
+  "sourceDirName": ".",
+  "slug": "/accessibility",
+  "permalink": "/hackathon-/docs/accessibility",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MubashirKhan0/hackathon-/edit/master/website/docs/accessibility.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 999,
+  "frontMatter": {
+    "sidebar_label": "Accessibility Statement",
+    "sidebar_position": 999
+  }
+}

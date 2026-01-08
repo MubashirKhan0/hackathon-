@@ -1,0 +1,24 @@
+{
+  "id": "intro",
+  "title": "Physical AI & Humanoid Robotics — Embodied Intelligence in the Physical World",
+  "description": "Overview",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/hackathon-/docs/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MubashirKhan0/hackathon-/edit/master/website/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "Introduction",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Module 1: Foundations of Physical AI & Embodied Intelligence",
+    "permalink": "/hackathon-/docs/module-1/"
+  }
+}

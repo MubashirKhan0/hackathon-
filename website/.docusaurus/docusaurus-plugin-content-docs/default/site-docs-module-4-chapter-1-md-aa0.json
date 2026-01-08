@@ -1,0 +1,28 @@
+{
+  "id": "module-4/chapter-1",
+  "title": "Variable Level of Autonomy (VLA) Systems",
+  "description": "Understanding systems that can operate at different levels of autonomy",
+  "source": "@site/docs/module-4/chapter-1.md",
+  "sourceDirName": "module-4",
+  "slug": "/module-4/chapter-1",
+  "permalink": "/hackathon-/docs/module-4/chapter-1",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MubashirKhan0/hackathon-/edit/master/website/docs/module-4/chapter-1.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Variable Level of Autonomy (VLA) Systems",
+    "description": "Understanding systems that can operate at different levels of autonomy",
+    "sidebar_label": "Chapter 1: Variable Level of Autonomy (VLA) Systems"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 4: Intelligence in Action — VLA & Autonomous Systems",
+    "permalink": "/hackathon-/docs/module-4/"
+  },
+  "next": {
+    "title": "Chapter 2: Autonomous Robotics Applications",
+    "permalink": "/hackathon-/docs/module-4/chapter-2"
+  }
+}

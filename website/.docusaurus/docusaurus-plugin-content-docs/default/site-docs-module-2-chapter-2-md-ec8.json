@@ -1,0 +1,28 @@
+{
+  "id": "module-2/chapter-2",
+  "title": "Nodes, Topics, Services, and Actions",
+  "description": "Understanding the fundamental communication patterns in ROS 2",
+  "source": "@site/docs/module-2/chapter-2.md",
+  "sourceDirName": "module-2",
+  "slug": "/module-2/chapter-2",
+  "permalink": "/hackathon-/docs/module-2/chapter-2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MubashirKhan0/hackathon-/edit/master/website/docs/module-2/chapter-2.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Nodes, Topics, Services, and Actions",
+    "description": "Understanding the fundamental communication patterns in ROS 2",
+    "sidebar_label": "Chapter 2: Nodes, Topics, Services, and Actions"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 1: The Robotic Nervous System (ROS 2)",
+    "permalink": "/hackathon-/docs/module-2/chapter-1"
+  },
+  "next": {
+    "title": "Chapter 3: Digital Robot Bodies (URDF & SDF)",
+    "permalink": "/hackathon-/docs/module-2/chapter-3"
+  }
+}

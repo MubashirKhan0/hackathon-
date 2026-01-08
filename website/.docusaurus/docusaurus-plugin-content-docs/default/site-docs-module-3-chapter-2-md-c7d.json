@@ -1,0 +1,28 @@
+{
+  "id": "module-3/chapter-2",
+  "title": "Sensors & Perception Systems",
+  "description": "Understanding how robots perceive their environment and extract meaningful information",
+  "source": "@site/docs/module-3/chapter-2.md",
+  "sourceDirName": "module-3",
+  "slug": "/module-3/chapter-2",
+  "permalink": "/hackathon-/docs/module-3/chapter-2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MubashirKhan0/hackathon-/edit/master/website/docs/module-3/chapter-2.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Sensors & Perception Systems",
+    "description": "Understanding how robots perceive their environment and extract meaningful information",
+    "sidebar_label": "Chapter 2: Sensors & Perception Systems"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 1: Simulation & Digital Twins",
+    "permalink": "/hackathon-/docs/module-3/chapter-1"
+  },
+  "next": {
+    "title": "Chapter 3: The AI Robot Brain (Isaac Ecosystem)",
+    "permalink": "/hackathon-/docs/module-3/chapter-3"
+  }
+}

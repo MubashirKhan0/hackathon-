@@ -1,0 +1,28 @@
+{
+  "id": "module-4/chapter-3",
+  "title": "Integration & Coordination",
+  "description": "Understanding how different robotic systems work together in complex environments",
+  "source": "@site/docs/module-4/chapter-3.md",
+  "sourceDirName": "module-4",
+  "slug": "/module-4/chapter-3",
+  "permalink": "/hackathon-/docs/module-4/chapter-3",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MubashirKhan0/hackathon-/edit/master/website/docs/module-4/chapter-3.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Integration & Coordination",
+    "description": "Understanding how different robotic systems work together in complex environments",
+    "sidebar_label": "Chapter 3: Integration & Coordination"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 2: Autonomous Robotics Applications",
+    "permalink": "/hackathon-/docs/module-4/chapter-2"
+  },
+  "next": {
+    "title": "Capstone: Practical Physical AI Applications",
+    "permalink": "/hackathon-/docs/capstone/"
+  }
+}

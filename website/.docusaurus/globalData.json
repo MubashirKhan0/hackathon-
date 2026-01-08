@@ -1,0 +1,122 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/hackathon-/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/hackathon-/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "accessibility",
+              "path": "/hackathon-/docs/accessibility"
+            },
+            {
+              "id": "capstone/index",
+              "path": "/hackathon-/docs/capstone/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/hackathon-/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1/chapter-1",
+              "path": "/hackathon-/docs/module-1/chapter-1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1/chapter-2",
+              "path": "/hackathon-/docs/module-1/chapter-2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1/chapter-3",
+              "path": "/hackathon-/docs/module-1/chapter-3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1/index",
+              "path": "/hackathon-/docs/module-1/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2/chapter-1",
+              "path": "/hackathon-/docs/module-2/chapter-1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2/chapter-2",
+              "path": "/hackathon-/docs/module-2/chapter-2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2/chapter-3",
+              "path": "/hackathon-/docs/module-2/chapter-3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2/index",
+              "path": "/hackathon-/docs/module-2/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3/chapter-1",
+              "path": "/hackathon-/docs/module-3/chapter-1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3/chapter-2",
+              "path": "/hackathon-/docs/module-3/chapter-2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3/chapter-3",
+              "path": "/hackathon-/docs/module-3/chapter-3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3/index",
+              "path": "/hackathon-/docs/module-3/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4/chapter-1",
+              "path": "/hackathon-/docs/module-4/chapter-1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4/chapter-2",
+              "path": "/hackathon-/docs/module-4/chapter-2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4/chapter-3",
+              "path": "/hackathon-/docs/module-4/chapter-3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4/index",
+              "path": "/hackathon-/docs/module-4/",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/hackathon-/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

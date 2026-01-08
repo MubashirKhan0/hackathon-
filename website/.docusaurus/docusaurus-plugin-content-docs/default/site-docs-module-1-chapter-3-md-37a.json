@@ -1,0 +1,28 @@
+{
+  "id": "module-1/chapter-3",
+  "title": "Why Humanoids Matter",
+  "description": "Understanding the significance of humanoid form factors in robotics research and development",
+  "source": "@site/docs/module-1/chapter-3.md",
+  "sourceDirName": "module-1",
+  "slug": "/module-1/chapter-3",
+  "permalink": "/hackathon-/docs/module-1/chapter-3",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MubashirKhan0/hackathon-/edit/master/website/docs/module-1/chapter-3.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Why Humanoids Matter",
+    "description": "Understanding the significance of humanoid form factors in robotics research and development",
+    "sidebar_label": "Chapter 3: Why Humanoids Matter"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 2: Embodied Intelligence & Physical Reasoning",
+    "permalink": "/hackathon-/docs/module-1/chapter-2"
+  },
+  "next": {
+    "title": "Module 2: The Robotic Nervous System & Digital Body",
+    "permalink": "/hackathon-/docs/module-2/"
+  }
+}

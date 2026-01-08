@@ -1,0 +1,28 @@
+{
+  "id": "module-2/chapter-1",
+  "title": "The Robotic Nervous System (ROS 2)",
+  "description": "Understanding the architecture and components of ROS 2 as the nervous system of robotic systems",
+  "source": "@site/docs/module-2/chapter-1.md",
+  "sourceDirName": "module-2",
+  "slug": "/module-2/chapter-1",
+  "permalink": "/hackathon-/docs/module-2/chapter-1",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MubashirKhan0/hackathon-/edit/master/website/docs/module-2/chapter-1.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "The Robotic Nervous System (ROS 2)",
+    "description": "Understanding the architecture and components of ROS 2 as the nervous system of robotic systems",
+    "sidebar_label": "Chapter 1: The Robotic Nervous System (ROS 2)"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 2: The Robotic Nervous System & Digital Body",
+    "permalink": "/hackathon-/docs/module-2/"
+  },
+  "next": {
+    "title": "Chapter 2: Nodes, Topics, Services, and Actions",
+    "permalink": "/hackathon-/docs/module-2/chapter-2"
+  }
+}

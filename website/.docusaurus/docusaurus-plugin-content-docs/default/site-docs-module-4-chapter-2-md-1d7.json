@@ -1,0 +1,28 @@
+{
+  "id": "module-4/chapter-2",
+  "title": "Autonomous Robotics Applications",
+  "description": "Understanding real-world applications of autonomous robotics systems",
+  "source": "@site/docs/module-4/chapter-2.md",
+  "sourceDirName": "module-4",
+  "slug": "/module-4/chapter-2",
+  "permalink": "/hackathon-/docs/module-4/chapter-2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MubashirKhan0/hackathon-/edit/master/website/docs/module-4/chapter-2.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Autonomous Robotics Applications",
+    "description": "Understanding real-world applications of autonomous robotics systems",
+    "sidebar_label": "Chapter 2: Autonomous Robotics Applications"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 1: Variable Level of Autonomy (VLA) Systems",
+    "permalink": "/hackathon-/docs/module-4/chapter-1"
+  },
+  "next": {
+    "title": "Chapter 3: Integration & Coordination",
+    "permalink": "/hackathon-/docs/module-4/chapter-3"
+  }
+}
