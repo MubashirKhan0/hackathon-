@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400">
+  <rect width="800" height="400" fill="#f0f8ff"/>
+  <text x="400" y="200" font-family="Arial" font-size="24" text-anchor="middle" fill="#333">
+    ROS 2 Architecture Diagram
+  </text>
+  <rect x="50" y="100" width="150" height="100" fill="#e6f3ff" stroke="#0066cc" stroke-width="2"/>
+  <text x="125" y="155" font-family="Arial" font-size="12" text-anchor="middle" fill="#0066cc">Node A</text>
+  <rect x="325" y="100" width="150" height="100" fill="#e6f3ff" stroke="#0066cc" stroke-width="2"/>
+  <text x="400" y="155" font-family="Arial" font-size="12" text-anchor="middle" fill="#0066cc">Node B</text>
+  <rect x="600" y="100" width="150" height="100" fill="#e6f3ff" stroke="#0066cc" stroke-width="2"/>
+  <text x="675" y="155" font-family="Arial" font-size="12" text-anchor="middle" fill="#0066cc">Node C</text>
+  <text x="400" y="250" font-family="Arial" font-size="14" text-anchor="middle" fill="#666">ROS 2: Distributed Architecture with Multiple Nodes</text>
+</svg>
